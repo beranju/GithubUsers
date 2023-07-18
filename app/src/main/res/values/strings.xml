@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">github user</string>
+    <string name="search_result_desc">Result for %s</string>
+    <string name="detail_toolbar_title">Detail of %s</string>
+    <string name="tab1">Follower</string>
+    <string name="tab2">Following</string>
+    <string name="tab_following_text">following</string>
+    <string name="tab_followers_text">followers</string>
+    <string name="follower_text_desc">Followers of %s</string>
+    <string name="following_text_desc">Following of %s</string>
+    <string name="empty_follow">No user here</string>
+    <string name="something_wrong">Something went wrong!</string>
+    <string name="nothing_found">Nothing found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_label">Home</string>
+    <string name="favorite_label">Favorite</string>
+    <string name="settings_label">Settings</string>
+    <string name="name_field_hint">Type your name</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="profile_dont_set_desc">You haven\'t set your profile</string>
+    <string name="btn_set_my_profile">Set my profile</string>
+    <string name="btn_update_my_profile">Update my profile</string>
+    <string name="dark_mode_text">Dark Mode</string>
+    <string name="favorite_desc">Find your favorite user in Github</string>
+</resources>

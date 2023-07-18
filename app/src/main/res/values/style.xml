@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="roundedImage">
+        <item name="cornerSize">8dp</item>
+    </style>
+    <style name="roundedImage_10">
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="TextView"/>
+    <style name="TextView.poppins_18_bold">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextView.poppins_14_bold">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextView.poppins_14_semibold">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextView.poppins_16_regular">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="TextView.poppins_12_regular">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="TextView.poppins_12_bold">
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
