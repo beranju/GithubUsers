@@ -22,11 +22,11 @@ android {
     buildTypes {
         debug{
             buildConfigField "String", "BASE_URL", '"https://api.github.com/"'
-            buildConfigField "String", "TOKEN", '"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"'
+            buildConfigField "String", "TOKEN", '"_TOKEN_"'
         }
         release {
             buildConfigField "String", "BASE_URL", '"https://api.github.com/"'
-            buildConfigField "String", "TOKEN", '"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"'
+            buildConfigField "String", "TOKEN", '"_TOKEN_"'
 
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
